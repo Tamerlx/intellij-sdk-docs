@@ -7,23 +7,23 @@ redirect_from:
 [![official JetBrains project](https://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![Join the chat at https://gitter.im/JetBrains/gradle-intellij-plugin](https://badges.gitter.im/JetBrains/intellij-sdk-docs.svg)](https://gitter.im/IntelliJ-Plugin-Developers/Lobby)
 
-Welcome to the _IntelliJ Platform_ SDK. This is the primary source of documentation for extending the _IntelliJ Platform_, by creating plugins, custom language support or building a custom IDE.
+本文档主要介绍怎么通过创建插件、自定义语言支持、自定义IDE工具来扩展Interllij Platform。
 
-## Getting Started
+## 快速入门
 
-* [**What is the IntelliJ Platform?**](intro/intellij_platform.md)
-* [**About this Guide**](intro/about.md)
-    * [**Key Topics**](intro/key_topics.md)
-* [**Getting Help**](intro/getting_help.md)
-* [**Getting Started**](/basics/getting_started.md)
-* [**Useful Links**](/appendix/resources/useful_links.md)
+* [**什么是 Intellij Platform?**](intro/intellij_platform.md)
+* [**新手指引**](intro/about.md)
+    * [**关键话题**](intro/key_topics.md)
+* [**获取帮助**](intro/getting_help.md)
+* [**如何开始**](/basics/getting_started.md)
+* [**相关链接**](/appendix/resources/useful_links.md)
 
-## Open Source
+## 关于开源
 
-This guide is Open Source, and licensed under Apache 2.0. The source (as Markdown) is [hosted on GitHub](https://github.com/JetBrains/intellij-sdk-docs). 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to host the docs locally and contribute.
+该文档是开源的，遵循Apache 2.0协议。源码托管于[GitHub](https://github.com/JetBrains/intellij-sdk-docs)。
+有关于本地托管和贡献的详细内容请参阅[CONTRIBUTING.md](CONTRIBUTING.md)。
 
-Please see [Getting Help](/intro/getting_help.md) if you encounter bugs in this guide or require help with missing content. 
+遇到问题或者寻求帮助请参阅[Getting Help](/intro/getting_help.md)。 
 
-## Updates
-See [Recently Updated](recently_updated.md) for latest changes. Follow [JBPlatform](https://twitter.com/JBPlatform/) on Twitter and visit [JetBrains Platform Blog](https://blog.jetbrains.com/platform/) for latest announcements.
+## 关于更新
+最近的更新请查阅 [Recently Updated](recently_updated.md) 。 关注 [JBPlatform](https://twitter.com/JBPlatform/) 的Twitter或访问 [JetBrains Platform Blog](https://blog.jetbrains.com/platform/) 来了解更多最新资讯。
